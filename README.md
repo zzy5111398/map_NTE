@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./public/icon.png" alt="异环地图" width="350" />
 </p>
-<h1 align="center">异环地图</h1>
+<h1 align="center">异环地图 - zzy5111398</h1>
 <p align="center">
   <strong>NTE Map</strong> &mdash; 游戏《异环》交互式在线地图
 </p>
